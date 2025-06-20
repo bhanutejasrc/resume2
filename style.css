@@ -1,0 +1,46 @@
+html{
+    background-color:black;
+    color :beige
+}
+#myname{
+    color: beige;
+    text-align: center;
+    margin-bottom: 3%;
+   
+}
+#title{
+    text-align: center;
+}
+div > .beige{
+    color: white;
+}
+img{
+    border: solid beige;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3%;
+   
+    
+}
+.technicalskill{
+    background-color: thistle;
+    color: beige;
+    border: solid white;
+    margin: 20px;
+    margin-right: 50%;
+    
+}
+.businessskill{
+    background-color: chocolate;
+    
+    border: solid white;
+    margin: 20px;
+    margin-right: 50%;
+}
+.ROLES{
+    border: solid ;
+    background-color: brown;
+    margin: 20px;
+    margin-right: 50%;
+}
